@@ -24,7 +24,6 @@ Discover Italy is a beginner-friendly HTML and CSS project designed to practice 
 ## 🛠️ Built With
 
 - HTML5
-- CSS3
 
 ## 🎯 Learning Goals
 
